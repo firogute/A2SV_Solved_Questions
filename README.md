@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/firogute/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [2487-remove-nodes-from-linked-list](https://github.com/firogute/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/firogute/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/firogute/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

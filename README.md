@@ -13,12 +13,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/firogute/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
+| [2487-remove-nodes-from-linked-list](https://github.com/firogute/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/firogute/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
+| [2487-remove-nodes-from-linked-list](https://github.com/firogute/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Ordered Set
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/firogute/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
+## Linked List
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/firogute/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/firogute/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/firogute/A2SV_Solved_Questions/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/firogute/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
@@ -53,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/firogute/A2SV_Solved_Questions/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->

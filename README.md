@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/firogute/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/firogute/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/firogute/A2SV_Solved_Questions/tree/master/0050-powx-n) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/firogute/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/firogute/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
@@ -54,5 +57,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/firogute/A2SV_Solved_Questions/tree/master/0050-powx-n) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->

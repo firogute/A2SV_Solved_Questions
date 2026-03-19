@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/firogute/A2SV_Solved_Questions/tree/master/0050-powx-n) |
+| [0390-elimination-game](https://github.com/firogute/A2SV_Solved_Questions/tree/master/0390-elimination-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/firogute/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/firogute/A2SV_Solved_Questions/tree/master/0050-powx-n) |
+| [0390-elimination-game](https://github.com/firogute/A2SV_Solved_Questions/tree/master/0390-elimination-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 ## Simulation

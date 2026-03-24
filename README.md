@@ -65,4 +65,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Tree
+|  |
+| ------- |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Depth-First Search
+|  |
+| ------- |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Binary Tree
+|  |
+| ------- |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/firogute/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 <!---LeetCode Topics End-->
